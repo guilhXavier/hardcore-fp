@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "folktale": "^2.3.2",
     "fs": "0.0.1-security",
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
     "path": "^0.12.7",
     "ramda": "^0.27.1"
   }
